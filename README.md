@@ -22,42 +22,17 @@
 
 <table>
   <tr>
-    <td width="36%" align="center" valign="top">
-      <img
-        src="./assets/wilker-developer-portrait.png"
-        width="100%"
-        alt="Original purple and black technology illustration with architecture panels and system interfaces."
-      />
+    <td width="36%" align="center">
+      <img src="./assets/wilker-developer-portrait.png" width="100%" alt="Original purple and black technology illustration with architecture panels and system interfaces." />
     </td>
-
-    <td width="64%" valign="top">
-      <p>
-        I'm a Full Stack Developer focused on building maintainable applications
-        with Java, Spring Boot, React, Agular and relational databases.
-      </p>
-    
-      <p>
-        My technical work covers REST APIs, system integrations, layered
-        architecture, data modeling, automated testing and containerized
-        environments with Docker.
-      </p>
-    
-      <p>
-        My main projects include IGRIS, a polyglot academic allocation platform
-        built with Java, React, Python and Go; PGP Academy, where I contributed
-        to the backend and database modeling with C# and ASP.NET; and Mione, an
-        academic tutoring platform organized into frontend, backend and
-        documentation repositories.
-      </p>
-    
-      <p>
-        I prioritize clear architecture, reliable integrations and code that
-        remains easy to test, maintain and evolve.
-      </p>
+    <td width="64%">
+      <p>Hey, I'm Weslley Wilker, a Full Stack Developer based in Brasília, Brazil.</p>
+      <p>I build and maintain business applications using Java, Spring Boot, React and relational databases, working across APIs, system integrations, internal tools and process automation.</p>
+      <p>At BB Administradora de Consórcios, I worked on corporate systems and reduced the response time of a critical endpoint from approximately 38 seconds to 5 seconds.</p>
+      <p>I hold a bachelor's degree in Computer Science and have experience with academic research, technical presentations and an English immersion program in Sydney, Australia.</p>
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -112,8 +87,6 @@ Academic tutoring management platform with public backend, frontend and document
 **Stack:** Java • Spring Boot • PostgreSQL • React • TypeScript • Docker
 
 [Backend](https://github.com/WilkerMonky/mione-backend) • [Frontend](https://github.com/WilkerMonky/mione-frontend) • [Docs](https://github.com/WilkerMonky/mione-docs)
-
-
 
 ---
 
