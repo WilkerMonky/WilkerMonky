@@ -1,57 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" role="img" aria-label="Weslley Wilker full stack developer banner">
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" role="img" aria-label="WilkerMonky purple shadow technology profile banner">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#020617"/>
-      <stop offset="0.55" stop-color="#0B1120"/>
-      <stop offset="1" stop-color="#020617"/>
+      <stop offset="0" stop-color="#030108"/>
+      <stop offset="0.58" stop-color="#0B0614"/>
+      <stop offset="1" stop-color="#030108"/>
     </linearGradient>
-    <radialGradient id="aura" cx="58%" cy="44%" r="48%">
-      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.48"/>
-      <stop offset="0.36" stop-color="#2563EB" stop-opacity="0.2"/>
-      <stop offset="0.75" stop-color="#6366F1" stop-opacity="0.08"/>
-      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    <radialGradient id="aura" cx="50%" cy="43%" r="42%">
+      <stop offset="0" stop-color="#C084FC" stop-opacity="0.58"/>
+      <stop offset="0.22" stop-color="#A855F7" stop-opacity="0.34"/>
+      <stop offset="0.55" stop-color="#7C3AED" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#030108" stop-opacity="0"/>
     </radialGradient>
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+    <filter id="glow" x="-35%" y="-35%" width="170%" height="170%">
       <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
-      <path d="M80 0H0V80" fill="none" stroke="#1D4ED8" stroke-opacity="0.14" stroke-width="1"/>
+    <pattern id="grid" width="92" height="92" patternUnits="userSpaceOnUse">
+      <path d="M92 0H0V92" fill="none" stroke="#4C1D95" stroke-opacity="0.16" stroke-width="1"/>
     </pattern>
   </defs>
   <rect width="1600" height="600" fill="url(#bg)"/>
   <rect width="1600" height="600" fill="url(#grid)"/>
   <rect width="1600" height="600" fill="url(#aura)"/>
-  <path d="M-40 430 C220 330 300 500 540 392 C760 292 860 210 1120 290 C1320 352 1450 260 1640 170" fill="none" stroke="#38BDF8" stroke-opacity="0.36" stroke-width="3" filter="url(#glow)"/>
-  <path d="M-20 500 C180 450 365 485 560 432 C780 372 880 255 1110 348 C1300 424 1460 352 1630 250" fill="none" stroke="#6366F1" stroke-opacity="0.26" stroke-width="2"/>
-  <g opacity="0.88" filter="url(#glow)">
-    <circle cx="1040" cy="235" r="88" fill="none" stroke="#38BDF8" stroke-width="2" stroke-opacity="0.42"/>
-    <circle cx="1040" cy="235" r="138" fill="none" stroke="#2563EB" stroke-width="2" stroke-opacity="0.22"/>
-    <path d="M1040 105 L1088 235 L1040 365 L992 235 Z" fill="#38BDF8" fill-opacity="0.08" stroke="#38BDF8" stroke-opacity="0.58" stroke-width="2"/>
+  <g fill="none" filter="url(#glow)">
+    <path d="M130 390 C360 290 520 450 760 318 C1000 186 1188 268 1460 160" stroke="#A855F7" stroke-opacity="0.42" stroke-width="3"/>
+    <path d="M100 470 C360 382 504 410 710 346 C954 270 1140 438 1510 282" stroke="#C084FC" stroke-opacity="0.24" stroke-width="2"/>
+    <path d="M730 90 C690 185 690 405 770 520 M870 88 C912 184 910 405 830 520" stroke="#7C3AED" stroke-opacity="0.2" stroke-width="2"/>
+    <circle cx="800" cy="300" r="168" stroke="#A855F7" stroke-opacity="0.24" stroke-width="2"/>
+    <circle cx="800" cy="300" r="248" stroke="#4C1D95" stroke-opacity="0.18" stroke-width="2"/>
   </g>
-  <g fill="none" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.42">
-    <rect x="1090" y="112" width="310" height="92" rx="10"/>
-    <rect x="1115" y="135" width="110" height="12" rx="6" fill="#38BDF8" fill-opacity="0.38" stroke="none"/>
-    <rect x="1115" y="163" width="230" height="9" rx="4" fill="#94A3B8" fill-opacity="0.28" stroke="none"/>
-    <rect x="1115" y="181" width="180" height="9" rx="4" fill="#94A3B8" fill-opacity="0.2" stroke="none"/>
-    <rect x="1185" y="344" width="290" height="112" rx="10"/>
-    <path d="M1218 418 h210 M1218 390 h170 M1218 362 h95" stroke-opacity="0.35"/>
-    <rect x="765" y="392" width="295" height="92" rx="10"/>
-    <path d="M795 422 h210 M795 450 h130" stroke-opacity="0.34"/>
+  <g fill="none" stroke="#8B5CF6" stroke-opacity="0.38" stroke-width="1.5">
+    <rect x="112" y="108" width="284" height="104" rx="12"/>
+    <rect x="1204" y="96" width="294" height="108" rx="12"/>
+    <rect x="180" y="412" width="268" height="86" rx="12"/>
+    <rect x="1152" y="402" width="304" height="90" rx="12"/>
+    <path d="M152 142 h160 M152 172 h206 M1238 132 h170 M1238 162 h208 M224 448 h150 M1192 438 h194" stroke="#C4B5FD" stroke-opacity="0.28"/>
   </g>
-  <g fill="#38BDF8" opacity="0.72">
-    <circle cx="210" cy="105" r="2.5"/><circle cx="320" cy="178" r="2"/><circle cx="492" cy="90" r="3"/>
-    <circle cx="1228" cy="76" r="2.5"/><circle cx="1378" cy="280" r="2"/><circle cx="1448" cy="500" r="3"/>
-    <circle cx="695" cy="128" r="2"/><circle cx="870" cy="520" r="2.5"/><circle cx="1018" cy="72" r="2"/>
+  <g fill="#C084FC" opacity="0.8">
+    <circle cx="250" cy="78" r="2.5"/><circle cx="390" cy="320" r="2"/><circle cx="560" cy="112" r="3"/>
+    <circle cx="1010" cy="95" r="2"/><circle cx="1250" cy="318" r="2.5"/><circle cx="1430" cy="78" r="3"/>
+    <circle cx="720" cy="512" r="2"/><circle cx="930" cy="518" r="2.5"/><circle cx="1360" cy="496" r="2"/>
   </g>
-  <g font-family="Liberation Sans, Arial, sans-serif">
-    <text x="96" y="202" fill="#E0F2FE" font-size="78" font-weight="700">Weslley Wilker</text>
-    <text x="102" y="258" fill="#38BDF8" font-size="32" font-weight="700" letter-spacing="3">FULL STACK DEVELOPER</text>
-    <text x="102" y="314" fill="#94A3B8" font-size="25">Java . Spring Boot . React . PostgreSQL . Systems Integration</text>
-    <rect x="102" y="364" width="420" height="3" fill="#38BDF8" opacity="0.82"/>
-    <text x="102" y="420" fill="#E0F2FE" font-size="24">Engineering reliable APIs, data flows, and production-ready software.</text>
+  <g font-family="Georgia, 'Times New Roman', serif" text-anchor="middle">
+    <text x="800" y="282" fill="#F5F3FF" font-size="118" font-weight="700" filter="url(#glow)">WilkerMonky</text>
+    <text x="800" y="337" fill="#C084FC" font-size="26" font-family="Liberation Sans, Arial, sans-serif" font-weight="700" letter-spacing="4">FULL STACK DEVELOPER • BACKEND ENGINEERING • SYSTEMS INTEGRATION</text>
+    <rect x="530" y="372" width="540" height="2.5" fill="#A855F7" opacity="0.76"/>
   </g>
 </svg>
