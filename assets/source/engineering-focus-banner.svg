@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-label="Purple engineering focus banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#030108"/><stop offset="0.56" stop-color="#0B0614"/><stop offset="1" stop-color="#030108"/></linearGradient>
+    <filter id="glow" x="-35%" y="-35%" width="170%" height="170%"><feGaussianBlur stdDeviation="4.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1600" height="500" fill="url(#bg)"/>
+  <g stroke="#4C1D95" stroke-opacity="0.18"><path d="M0 96 H1600 M0 198 H1600 M0 300 H1600 M0 402 H1600"/><path d="M220 0 V500 M520 0 V500 M820 0 V500 M1120 0 V500 M1420 0 V500"/></g>
+  <g fill="none" stroke="#A855F7" stroke-width="2.5" filter="url(#glow)">
+    <rect x="130" y="166" width="300" height="168" rx="16"/><rect x="650" y="126" width="300" height="248" rx="16"/><rect x="1170" y="166" width="300" height="168" rx="16"/>
+    <path d="M430 250 H650 M950 250 H1170"/><circle cx="540" cy="250" r="38"/><circle cx="1060" cy="250" r="38"/>
+  </g>
+  <g font-family="Liberation Sans, Arial, sans-serif" text-anchor="middle">
+    <text x="280" y="230" fill="#F5F3FF" font-size="30" font-weight="700">Backend</text><text x="280" y="274" fill="#C4B5FD" font-size="20">APIs • rules • persistence</text>
+    <text x="800" y="222" fill="#F5F3FF" font-size="34" font-weight="700">Engineering Focus</text><text x="800" y="270" fill="#C084FC" font-size="22" font-weight="700">clarity • integration • performance</text><text x="800" y="312" fill="#A1A1AA" font-size="18">Readable systems designed to survive after delivery</text>
+    <text x="1320" y="230" fill="#F5F3FF" font-size="30" font-weight="700">Quality</text><text x="1320" y="274" fill="#C4B5FD" font-size="20">tests • docs • maintainability</text>
+  </g>
+</svg>

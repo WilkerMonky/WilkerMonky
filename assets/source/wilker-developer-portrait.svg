@@ -1,60 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Software engineer blue aura technology portrait">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Purple shadow software engineering interface illustration">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#020617"/>
-      <stop offset="0.62" stop-color="#0B1120"/>
-      <stop offset="1" stop-color="#020617"/>
+      <stop offset="0" stop-color="#030108"/><stop offset="0.6" stop-color="#0B0614"/><stop offset="1" stop-color="#030108"/>
     </linearGradient>
     <radialGradient id="core" cx="50%" cy="42%" r="48%">
-      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.34"/>
-      <stop offset="0.42" stop-color="#2563EB" stop-opacity="0.16"/>
-      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+      <stop offset="0" stop-color="#C084FC" stop-opacity="0.36"/><stop offset="0.42" stop-color="#7C3AED" stop-opacity="0.18"/><stop offset="1" stop-color="#030108" stop-opacity="0"/>
     </radialGradient>
-    <filter id="glow" x="-35%" y="-35%" width="170%" height="170%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <filter id="glow" x="-35%" y="-35%" width="170%" height="170%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
   <rect width="1200" height="800" fill="url(#bg)"/>
   <rect width="1200" height="800" fill="url(#core)"/>
-  <g stroke="#1D4ED8" stroke-opacity="0.18" stroke-width="1">
+  <g stroke="#4C1D95" stroke-opacity="0.18" stroke-width="1">
     <path d="M0 650 H1200 M0 590 H1200 M0 530 H1200 M80 0 V800 M180 0 V800 M980 0 V800 M1080 0 V800"/>
   </g>
-  <g fill="none" stroke="#38BDF8" stroke-width="2" filter="url(#glow)">
-    <rect x="90" y="96" width="300" height="172" rx="14" opacity="0.44"/>
-    <rect x="810" y="92" width="300" height="172" rx="14" opacity="0.44"/>
-    <rect x="142" y="440" width="280" height="156" rx="14" opacity="0.36"/>
-    <rect x="778" y="442" width="280" height="156" rx="14" opacity="0.36"/>
-    <path d="M390 182 C485 158 526 230 600 230 C674 230 715 158 810 182" opacity="0.45"/>
-    <path d="M422 520 C510 452 690 452 778 520" opacity="0.4"/>
+  <g fill="none" stroke="#A855F7" stroke-width="2" filter="url(#glow)">
+    <rect x="92" y="98" width="302" height="174" rx="14" opacity="0.5"/>
+    <rect x="806" y="96" width="304" height="176" rx="14" opacity="0.5"/>
+    <rect x="140" y="450" width="286" height="154" rx="14" opacity="0.38"/>
+    <rect x="774" y="452" width="286" height="154" rx="14" opacity="0.38"/>
+    <path d="M394 186 C486 140 522 246 600 246 C678 246 714 140 806 186" opacity="0.48"/>
+    <path d="M426 526 C512 450 688 450 774 526" opacity="0.42"/>
   </g>
-  <g fill="#94A3B8" opacity="0.45">
-    <rect x="130" y="140" width="180" height="10" rx="5"/>
-    <rect x="130" y="170" width="220" height="8" rx="4"/>
-    <rect x="130" y="195" width="130" height="8" rx="4"/>
-    <rect x="850" y="136" width="190" height="10" rx="5"/>
-    <rect x="850" y="166" width="215" height="8" rx="4"/>
-    <rect x="850" y="192" width="120" height="8" rx="4"/>
-    <rect x="188" y="486" width="180" height="8" rx="4"/>
-    <rect x="188" y="516" width="120" height="8" rx="4"/>
-    <rect x="824" y="486" width="180" height="8" rx="4"/>
-    <rect x="824" y="516" width="130" height="8" rx="4"/>
+  <g fill="#C4B5FD" opacity="0.48">
+    <rect x="132" y="142" width="180" height="10" rx="5"/><rect x="132" y="172" width="220" height="8" rx="4"/><rect x="132" y="198" width="130" height="8" rx="4"/>
+    <rect x="850" y="140" width="190" height="10" rx="5"/><rect x="850" y="170" width="215" height="8" rx="4"/><rect x="850" y="196" width="120" height="8" rx="4"/>
+    <rect x="188" y="496" width="180" height="8" rx="4"/><rect x="188" y="526" width="120" height="8" rx="4"/><rect x="824" y="496" width="180" height="8" rx="4"/><rect x="824" y="526" width="130" height="8" rx="4"/>
   </g>
-  <g filter="url(#glow)">
-    <circle cx="600" cy="322" r="92" fill="#020617" stroke="#38BDF8" stroke-width="3" stroke-opacity="0.75"/>
-    <path d="M535 326 C548 260 652 260 665 326 C658 382 542 382 535 326Z" fill="#0B1120" stroke="#38BDF8" stroke-opacity="0.6" stroke-width="2"/>
-    <path d="M468 666 C492 500 708 500 732 666 Z" fill="#0B1120" stroke="#2563EB" stroke-width="3"/>
-    <path d="M522 558 H678 M494 610 H706" stroke="#38BDF8" stroke-opacity="0.44" stroke-width="2"/>
-    <circle cx="600" cy="330" r="160" fill="none" stroke="#38BDF8" stroke-opacity="0.22" stroke-width="2"/>
-    <circle cx="600" cy="330" r="222" fill="none" stroke="#6366F1" stroke-opacity="0.16" stroke-width="2"/>
+  <g filter="url(#glow)" fill="none">
+    <path d="M600 170 L688 330 L600 490 L512 330 Z" fill="#0B0614" stroke="#C084FC" stroke-width="3" stroke-opacity="0.72"/>
+    <circle cx="600" cy="330" r="158" stroke="#A855F7" stroke-opacity="0.28" stroke-width="2"/>
+    <circle cx="600" cy="330" r="224" stroke="#4C1D95" stroke-opacity="0.2" stroke-width="2"/>
+    <path d="M468 680 C492 512 708 512 732 680 Z" fill="#0B0614" stroke="#7C3AED" stroke-width="3"/>
+    <path d="M522 570 H678 M494 622 H706" stroke="#C084FC" stroke-opacity="0.5" stroke-width="2"/>
   </g>
-  <g fill="#38BDF8" opacity="0.78">
-    <circle cx="472" cy="184" r="3"/><circle cx="730" cy="178" r="2.5"/><circle cx="360" cy="360" r="2"/>
-    <circle cx="840" cy="340" r="2"/><circle cx="512" cy="700" r="2.5"/><circle cx="694" cy="710" r="3"/>
-    <circle cx="246" cy="326" r="2"/><circle cx="954" cy="304" r="2.5"/>
+  <g fill="#C084FC" opacity="0.8">
+    <circle cx="472" cy="184" r="3"/><circle cx="730" cy="178" r="2.5"/><circle cx="360" cy="360" r="2"/><circle cx="840" cy="340" r="2"/><circle cx="512" cy="700" r="2.5"/><circle cx="694" cy="710" r="3"/>
   </g>
   <g font-family="Liberation Sans, Arial, sans-serif">
-    <text x="78" y="716" fill="#E0F2FE" font-size="34" font-weight="700">Systems, APIs and data flows under control</text>
-    <text x="80" y="754" fill="#94A3B8" font-size="22">Original professional dark technology illustration</text>
+    <text x="78" y="716" fill="#F5F3FF" font-size="34" font-weight="700">Architecture, APIs and data flows</text>
+    <text x="80" y="754" fill="#A1A1AA" font-size="22">Original purple shadow technology illustration</text>
   </g>
 </svg>

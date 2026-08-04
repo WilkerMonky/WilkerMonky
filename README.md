@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="./assets/wilker-fullstack-banner.png" width="100%" alt="Weslley Wilker — Full Stack Developer building resilient systems with Java, Spring Boot, React and PostgreSQL in a blue and black technology aura." />
+  <img src="./assets/wilker-fullstack-banner.png" width="100%" alt="WilkerMonky profile banner with purple aura, shadow particles, and subtle technology interfaces." />
 
   <br />
 
-  [![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=E0F2FE)](https://github.com/WilkerMonky)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/weslley-wilker-oliveira)
-  [![Email](https://img.shields.io/badge/Email-1D4ED8?style=for-the-badge&logo=gmail&logoColor=E0F2FE)](mailto:weslleywilker10@gmail.com)
-  [![Resume](https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=E0F2FE)](./assets/Weslley-Wilker-CV.pdf)
+  [![GitHub](https://img.shields.io/badge/GitHub-030108?style=for-the-badge&logo=github&logoColor=F5F3FF)](https://github.com/WilkerMonky)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0614?style=for-the-badge&logo=linkedin&logoColor=C084FC&color=7C3AED)](https://linkedin.com/in/weslley-wilker-oliveira)
+  [![Email](https://img.shields.io/badge/Email-2E1065?style=for-the-badge&logo=gmail&logoColor=F5F3FF)](mailto:weslleywilker10@gmail.com)
+  [![Resume](https://img.shields.io/badge/Resume-4C1D95?style=for-the-badge&logo=adobeacrobatreader&logoColor=F5F3FF)](./assets/Weslley-Wilker-CV.pdf)
 
   [Português](./README.pt-BR.md)
 
-  ![Full Stack Development](https://img.shields.io/badge/FULL%20STACK%20DEVELOPMENT-38BDF8?style=flat-square&labelColor=020617&color=2563EB)
-  ![Backend Engineering](https://img.shields.io/badge/BACKEND%20ENGINEERING-E0F2FE?style=flat-square&labelColor=0B1120&color=1D4ED8)
-  ![Software Architecture](https://img.shields.io/badge/SOFTWARE%20ARCHITECTURE-38BDF8?style=flat-square&labelColor=020617&color=6366F1)
+  ![Full Stack Development](https://img.shields.io/badge/FULL%20STACK%20DEVELOPMENT-A855F7?style=flat-square&labelColor=030108&color=7C3AED)
+  ![Backend Engineering](https://img.shields.io/badge/BACKEND%20ENGINEERING-F5F3FF?style=flat-square&labelColor=0B0614&color=4C1D95)
+  ![Software Architecture](https://img.shields.io/badge/SOFTWARE%20ARCHITECTURE-C084FC?style=flat-square&labelColor=030108&color=8B5CF6)
 </div>
 
 ## About Me
@@ -23,32 +23,32 @@ My engineering style is pragmatic: clear boundaries, readable code, reliable API
 
 I hold a bachelor's degree in Computer Science and have experience in academic research, technical presentations, and software projects across Java, C#, Python, Go, and TypeScript ecosystems. In 2026, I completed a four-week English immersion program at ILSC Language Schools in Sydney, Australia, at an upper-intermediate level.
 
-<img src="./assets/wilker-developer-portrait.png" width="100%" alt="Original blue and black illustration of a software engineer surrounded by architecture panels, data flows, particles and system interfaces." />
+<img src="./assets/wilker-developer-portrait.png" width="100%" alt="Original purple and black technology illustration with architecture panels, data flows, particles, and system interfaces." />
 
 ## Technical Arsenal
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-020617?style=flat-square&logo=openjdk&logoColor=38BDF8)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-020617?style=flat-square&logo=springboot&logoColor=E0F2FE)
-![C#](https://img.shields.io/badge/C%23-020617?style=flat-square&logo=dotnet&logoColor=38BDF8)
-![Python](https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=E0F2FE)
-![Go](https://img.shields.io/badge/Go-020617?style=flat-square&logo=go&logoColor=38BDF8)
+![Java](https://img.shields.io/badge/Java-030108?style=flat-square&logo=openjdk&logoColor=C084FC)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-030108?style=flat-square&logo=springboot&logoColor=F5F3FF)
+![C#](https://img.shields.io/badge/C%23-030108?style=flat-square&logo=dotnet&logoColor=A855F7)
+![Python](https://img.shields.io/badge/Python-030108?style=flat-square&logo=python&logoColor=C4B5FD)
+![Go](https://img.shields.io/badge/Go-030108?style=flat-square&logo=go&logoColor=C084FC)
 
 Java • Spring Boot • C# • ASP.NET • Python • Django • Go • PHP • REST APIs
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=38BDF8)
-![TypeScript](https://img.shields.io/badge/TypeScript-020617?style=flat-square&logo=typescript&logoColor=E0F2FE)
-![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=flat-square&logo=javascript&logoColor=38BDF8)
+![React](https://img.shields.io/badge/React-030108?style=flat-square&logo=react&logoColor=C084FC)
+![TypeScript](https://img.shields.io/badge/TypeScript-030108?style=flat-square&logo=typescript&logoColor=F5F3FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-030108?style=flat-square&logo=javascript&logoColor=A855F7)
 
 React • TypeScript • JavaScript • HTML • CSS
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=38BDF8)
-![SQL](https://img.shields.io/badge/Relational_SQL-020617?style=flat-square&logoColor=E0F2FE)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-030108?style=flat-square&logo=postgresql&logoColor=C084FC)
+![SQL](https://img.shields.io/badge/Relational_SQL-030108?style=flat-square&logoColor=F5F3FF)
 
 PostgreSQL • MySQL • SQL Server • SQL • Data modeling • Query optimization
 
@@ -58,11 +58,13 @@ SOLID • Clean Code • Design Patterns • Layered Architecture • Asynchrono
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-020617?style=flat-square&logo=git&logoColor=38BDF8)
-![Docker](https://img.shields.io/badge/Docker-020617?style=flat-square&logo=docker&logoColor=E0F2FE)
-![Linux](https://img.shields.io/badge/Linux-020617?style=flat-square&logo=linux&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/Git-030108?style=flat-square&logo=git&logoColor=C084FC)
+![Docker](https://img.shields.io/badge/Docker-030108?style=flat-square&logo=docker&logoColor=F5F3FF)
+![Linux](https://img.shields.io/badge/Linux-030108?style=flat-square&logo=linux&logoColor=A855F7)
 
 Git • GitHub • Docker • Linux • JUnit • Mockito • GitHub Actions
+
+<img src="./assets/engineering-focus-banner.png" width="100%" alt="Purple engineering focus banner linking backend, integration, performance, tests, and maintainability." />
 
 ## Engineering Focus
 
@@ -70,7 +72,7 @@ Git • GitHub • Docker • Linux • JUnit • Mockito • GitHub Actions
 | :--- | :--- | :--- |
 | REST APIs, business rules, integrations, persistence, unit tests, and performance investigation. | End-to-end integration of React interfaces, backend services, relational databases, and supporting services. | SOLID, Clean Code, tests, documentation, layered design, and maintainable delivery. |
 
-<img src="./assets/featured-projects-banner.png" width="100%" alt="Featured IGRIS projects visualized as blue energy routes connecting frontend, backend services, data and optimization engines." />
+<img src="./assets/featured-projects-banner.png" width="100%" alt="Featured IGRIS repositories visualized as purple energy routes connecting frontend, APIs, services, and data." />
 
 ## Featured Projects
 
@@ -124,29 +126,49 @@ Planned full-stack platform for monitoring APIs, tracking latency and uptime, de
 
 **Planned stack:** Java • Spring Boot • React • PostgreSQL • Docker • Redis • RabbitMQ • JUnit • Mockito • Testcontainers • GitHub Actions
 
-<img src="./assets/research-publications-banner.png" width="100%" alt="Research and publications banner with blue data nodes, anonymized documents, analytical panels and technical evidence trails." />
+<img src="./assets/research-publications-banner.png" width="100%" alt="Research and publications banner with purple data nodes, documents, charts, education, and programming knowledge." />
 
 ## Research & Publications
 
-### Soft Skills in Technology Careers
+### Mapeamento de Soft Skills para Carreiras Tecnológicas
 
-Academic research on how soft skills influence careers in technology. My work included data collection and analysis, interviews with technology professionals and recruiters, interpretation of findings, scientific writing, and presentation at an academic congress.
+Research on the role of behavioral skills in technology careers, based on questionnaire data from students, teachers, and professionals. The article discusses how communication, teamwork, adaptability, and conflict resolution complement technical skills in technology work.
 
-**Highlights**
+**Publication:** RevistaFT
+**Role:** Co-author
+**Year:** 2024
+**Issue:** Volume 28, Issue 138
+**DOI:** `10.69849/revistaft/th10249261438`
+[Read the article](https://revistaft.com.br/mapeamento-de-soft-skills-para-carreiras-tecnologicas/)
 
-- Combined structured data analysis with professional interviews.
-- Produced an academic article from the collected evidence.
-- Requires privacy review and participant anonymization before any dataset is released.
+### Aplicação da Gamificação no Ensino de Programação: Desafios e Resultados na Educação Técnica
 
-**Publication repository coming soon.** The future repository will include the article PDF, methodology, findings, contribution statement, `CITATION.cff`, an appropriate license, and only data cleared for publication.
+Study on gamification in technical programming education, focusing on motivation, engagement, performance, and implementation challenges. The article synthesizes educational practices involving challenges, feedback, and rewards while noting the need for teacher preparation and pedagogical alignment.
+
+**Publication:** RevistaFT
+**Role:** Co-author
+**Year:** 2025
+**Issue:** Volume 29, Issue 149
+**DOI:** `10.69849/revistaft/cl10202508251015`
+[Read the article](https://revistaft.com.br/aplicacao-da-gamificacao-no-ensino-de-programacao-desafios-e-resultados-na-educacao-tecnica/)
+
+### Uso da Gamificação como Ferramenta Tecnológica para o Ensino de Lógica e Programação
+
+Article on gamification as a technological tool for teaching logic and programming in technical education. It analyzes how challenges, rewards, and feedback can support motivation, performance, and practical learning.
+
+**Publication:** RevistaFT
+**Role:** Co-author
+**Year:** 2025
+**Issue:** Volume 29, Issue 150
+**DOI:** `10.69849/revistaft/cl10202509251044`
+[Read the article](https://revistaft.com.br/uso-da-gamificacao-como-ferramenta-tecnologica-para-o-ensino-de-logica-e-programacao/)
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilkerMonky&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=2563EB&text_color=94A3B8&bg_color=020617" width="49%" alt="Weslley Wilker's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilkerMonky&layout=compact&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=020617" width="49%" alt="Most used languages in WilkerMonky public repositories" />
-</div>
+External dynamic SVG providers were returning non-image errors during validation, so I am not embedding broken cards. Until a reliable provider is available again, use the public GitHub views below:
+
+[Overview](https://github.com/WilkerMonky?tab=overview) • [Repositories](https://github.com/WilkerMonky?tab=repositories)
 
 <br />
 
-<img src="./assets/wilker-closing-card.png" width="100%" alt="Building reliable systems through software engineering, blue energy, and high-contrast system interfaces." />
+<img src="./assets/wilker-closing-card.png" width="100%" alt="Closing banner with purple energy paths around a reliable software systems message." />
