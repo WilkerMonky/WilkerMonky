@@ -26,8 +26,8 @@
       <img src="./assets/wilker-developer-portrait.png" width="100%" alt="Ilustração original roxa e preta com painéis de arquitetura e interfaces de sistema." />
     </td>
     <td width="64%">
-      <p>Olá, sou Weslley Wilker, Desenvolvedor Full Stack em Brasília, Brasil.</p>
-      <p>Construo e mantenho aplicações de negócio com Java, Spring Boot, React e bancos de dados relacionais, atuando em APIs, integrações, ferramentas internas e automação de processos.</p>
+      <p>Olá, sou Weslley Wilker, Desenvolvedor Full Stack em Brasília, DF - Brasil.</p>
+      <p>Construo e mantenho aplicações corporativas com Java, Spring Boot, React e bancos de dados relacionais, atuando em APIs, integrações, ferramentas internas e automação de processos.</p>
       <p>Na BB Administradora de Consórcios, trabalhei em sistemas corporativos e reduzi o tempo de resposta de um endpoint crítico de aproximadamente 38 para 5 segundos.</p>
       <p>Sou bacharel em Ciência da Computação e tenho experiência com pesquisa acadêmica, apresentações técnicas e imersão em inglês em Sydney, Austrália.</p>
     </td>
