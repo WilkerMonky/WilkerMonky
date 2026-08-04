@@ -26,11 +26,11 @@ Keep the current filenames and approximate proportions to avoid README changes:
 
 | File | Target size | Role |
 | :--- | :--- | :--- |
-| `wilker-fullstack-banner.png` | 1600 × 600 | Profile hero |
-| `wilker-developer-portrait.png` | 1200 × 800 | About illustration |
-| `featured-projects-banner.png` | 1600 × 500 | Projects divider |
-| `research-publications-banner.png` | 1600 × 500 | Research divider |
-| `wilker-closing-card.png` | 1600 × 500 | Closing statement |
+| `wilker-fullstack-banner.png` | 1600 x 600 | Profile hero |
+| `wilker-developer-portrait.png` | 1200 x 800 | About illustration |
+| `featured-projects-banner.png` | 1600 x 500 | Projects divider |
+| `research-publications-banner.png` | 1600 x 500 | Research divider |
+| `wilker-closing-card.png` | 1600 x 500 | Closing statement |
 
 Export PNGs in sRGB, strip unnecessary metadata, keep each preferably near or below 1 MB, and test text at mobile width. Update alternative text if the visual meaning changes. See [art direction](./art-direction.md) before generating replacements.
 
@@ -38,7 +38,7 @@ Export PNGs in sRGB, strip unnecessary metadata, keep each preferably near or be
 
 - Add a technology only when supported by the résumé or a public repository.
 - Keep badge count restrained; plain text is preferable for secondary tools and engineering practices.
-- Use the existing palette and avoid adding animated or visitor-count widgets.
+- Use the blue and black palette in [art direction](./art-direction.md) and avoid adding animated or visitor-count widgets.
 - Verify every badge and external statistic endpoint in both light and dark GitHub themes.
 
 ## Validate the profile

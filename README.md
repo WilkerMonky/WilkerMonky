@@ -1,150 +1,130 @@
 <div align="center">
-  <img src="./assets/wilker-fullstack-banner.png" width="100%" alt="Weslley Wilker — Full Stack Developer. Java, Spring Boot, React and PostgreSQL." />
+  <img src="./assets/wilker-fullstack-banner.png" width="100%" alt="Weslley Wilker — Full Stack Developer building resilient systems with Java, Spring Boot, React and PostgreSQL in a blue and black technology aura." />
 
   <br />
 
-  [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F8FAFC)](https://github.com/WilkerMonky)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=F8FAFC)](https://linkedin.com/in/weslley-wilker-oliveira)
-  [![Email](https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=F8FAFC)](mailto:weslleywilker10@gmail.com)
-  [![Résumé](https://img.shields.io/badge/Résumé-EF4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=F8FAFC)](./assets/Weslley-Wilker-CV.pdf)
+  [![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=E0F2FE)](https://github.com/WilkerMonky)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/weslley-wilker-oliveira)
+  [![Email](https://img.shields.io/badge/Email-1D4ED8?style=for-the-badge&logo=gmail&logoColor=E0F2FE)](mailto:weslleywilker10@gmail.com)
+  [![Resume](https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=E0F2FE)](./assets/Weslley-Wilker-CV.pdf)
 
   [Português](./README.pt-BR.md)
 
-  ![Full Stack Development](https://img.shields.io/badge/FULL%20STACK%20DEVELOPMENT-DC2626?style=flat-square&labelColor=05070D)
-  ![Backend Engineering](https://img.shields.io/badge/BACKEND%20ENGINEERING-F8FAFC?style=flat-square&labelColor=111827&color=111827)
-  ![Software Architecture](https://img.shields.io/badge/SOFTWARE%20ARCHITECTURE-EF4444?style=flat-square&labelColor=05070D)
+  ![Full Stack Development](https://img.shields.io/badge/FULL%20STACK%20DEVELOPMENT-38BDF8?style=flat-square&labelColor=020617&color=2563EB)
+  ![Backend Engineering](https://img.shields.io/badge/BACKEND%20ENGINEERING-E0F2FE?style=flat-square&labelColor=0B1120&color=1D4ED8)
+  ![Software Architecture](https://img.shields.io/badge/SOFTWARE%20ARCHITECTURE-38BDF8?style=flat-square&labelColor=020617&color=6366F1)
 </div>
 
 ## About Me
 
-I am a Full Stack Developer who works primarily with **Java, Spring Boot, React, and relational databases**. At BB Administradora de Consórcios, I maintained and evolved corporate systems, built internal tools and REST APIs, connected frontend, backend, and data layers, and helped automate operational processes. One documented performance investigation reduced a critical endpoint's response time from approximately 38 seconds to 5 seconds by identifying and removing processing bottlenecks.
+I am a Full Stack Developer focused on **Java, Spring Boot, React, and relational databases**. At BB Administradora de Consórcios, I maintained and evolved corporate systems, built internal tools and REST APIs, connected frontend, backend, and data layers, and helped automate operational processes. One documented performance investigation reduced a critical endpoint's response time from approximately 38 seconds to 5 seconds by identifying and removing processing bottlenecks.
 
-I design software to remain readable, testable, and maintainable after delivery. My work is guided by layered architecture, SOLID, Clean Code, design patterns, unit testing, and careful data modeling. I am particularly interested in API performance, system integration, and translating complex business rules into reliable software.
+My engineering style is pragmatic: clear boundaries, readable code, reliable APIs, careful persistence, and maintainable delivery after the first release. I work with layered architecture, SOLID, Clean Code, design patterns, unit testing, and performance investigation, with special interest in systems that combine business rules, integration, and measurable impact.
 
-I hold a bachelor's degree in Computer Science and have experience in academic research, technical presentations, and software projects across Java, C#, Python, and Go ecosystems. In 2026, I completed a four-week English immersion program at ILSC Language Schools in Sydney, Australia, at an upper-intermediate level.
+I hold a bachelor's degree in Computer Science and have experience in academic research, technical presentations, and software projects across Java, C#, Python, Go, and TypeScript ecosystems. In 2026, I completed a four-week English immersion program at ILSC Language Schools in Sydney, Australia, at an upper-intermediate level.
 
-<img src="./assets/wilker-developer-portrait.png" width="100%" alt="Original illustration of a software developer analyzing connected systems in an urban technology workspace." />
+<img src="./assets/wilker-developer-portrait.png" width="100%" alt="Original blue and black illustration of a software engineer surrounded by architecture panels, data flows, particles and system interfaces." />
 
 ## Technical Arsenal
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=EF4444)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=F8FAFC)
-![C#](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=dotnet&logoColor=EF4444)
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=F8FAFC)
+![Java](https://img.shields.io/badge/Java-020617?style=flat-square&logo=openjdk&logoColor=38BDF8)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-020617?style=flat-square&logo=springboot&logoColor=E0F2FE)
+![C#](https://img.shields.io/badge/C%23-020617?style=flat-square&logo=dotnet&logoColor=38BDF8)
+![Python](https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=E0F2FE)
+![Go](https://img.shields.io/badge/Go-020617?style=flat-square&logo=go&logoColor=38BDF8)
 
-Java • Spring Boot • C# • ASP.NET • Python • Django • PHP • REST APIs
+Java • Spring Boot • C# • ASP.NET • Python • Django • Go • PHP • REST APIs
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=F8FAFC)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=EF4444)
+![React](https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=38BDF8)
+![TypeScript](https://img.shields.io/badge/TypeScript-020617?style=flat-square&logo=typescript&logoColor=E0F2FE)
+![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=flat-square&logo=javascript&logoColor=38BDF8)
 
-React • JavaScript • HTML • CSS
+React • TypeScript • JavaScript • HTML • CSS
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=F8FAFC)
-![SQL](https://img.shields.io/badge/Relational_SQL-111827?style=flat-square&logoColor=EF4444)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=38BDF8)
+![SQL](https://img.shields.io/badge/Relational_SQL-020617?style=flat-square&logoColor=E0F2FE)
 
 PostgreSQL • MySQL • SQL Server • SQL • Data modeling • Query optimization
 
 ### Engineering
 
-SOLID • Clean Code • Design Patterns • Layered Architecture • Asynchronous Programming • API Performance • Unit Testing • Systems Integration
+SOLID • Clean Code • Design Patterns • Layered Architecture • Asynchronous Programming • API Performance • Unit Testing • Systems Integration • Technical Documentation
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=EF4444)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=F8FAFC)
-![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=EF4444)
+![Git](https://img.shields.io/badge/Git-020617?style=flat-square&logo=git&logoColor=38BDF8)
+![Docker](https://img.shields.io/badge/Docker-020617?style=flat-square&logo=docker&logoColor=E0F2FE)
+![Linux](https://img.shields.io/badge/Linux-020617?style=flat-square&logo=linux&logoColor=38BDF8)
 
-Git • GitHub • Docker • Linux • JUnit • Mockito
+Git • GitHub • Docker • Linux • JUnit • Mockito • GitHub Actions
 
 ## Engineering Focus
 
 | Backend Engineering | Full Stack Development | Software Quality |
 | :--- | :--- | :--- |
-| REST APIs, business rules, integrations, persistence, unit tests, and performance investigation. | End-to-end integration of React interfaces, backend services, and relational databases. | SOLID, Clean Code, tests, documentation, layered design, and maintainable delivery. |
+| REST APIs, business rules, integrations, persistence, unit tests, and performance investigation. | End-to-end integration of React interfaces, backend services, relational databases, and supporting services. | SOLID, Clean Code, tests, documentation, layered design, and maintainable delivery. |
 
-<img src="./assets/featured-projects-banner.png" width="100%" alt="Featured Projects — Engineering ideas into software." />
+<img src="./assets/featured-projects-banner.png" width="100%" alt="Featured IGRIS projects visualized as blue energy routes connecting frontend, backend services, data and optimization engines." />
 
 ## Featured Projects
 
-> Repositories not yet available publicly are marked explicitly. No private, employer-owned, or unauthorized code will be published.
+> I publish only code that can be shared safely. Private, employer-owned, or unauthorized code is not exposed.
 
-### IGRIS
+### IGRIS Project
 
-Computer Science capstone project for allocating academic resources with optimization algorithms. The solution combines a Java and Spring Boot core, a React frontend, PostgreSQL, and specialized services named Sunny (Java), Morpheus (Python), and Rocket (Go).
+IGRIS is my Computer Science capstone ecosystem for academic resource allocation with optimization algorithms. The project combines a Java and Spring Boot backend, a React frontend, PostgreSQL, and specialized services that explore different implementation strategies across Java, Python, and Go.
 
-**Highlights**
+**Core architecture**
 
-- Applies a genetic algorithm to an academic allocation problem.
-- Compares resolution strategies across specialized services.
-- Integrates a web application, database, and polyglot services.
+- Frontend web application for academic allocation workflows.
+- Backend API and persistence layer for domain rules and integrations.
+- Specialized services for optimization, scheduling, simulation, and support routines.
+- Academic documentation, benchmarks, and database artifacts maintained separately from the public runtime repositories.
 
-**Stack:** Java • Spring Boot • React • PostgreSQL • Python • Go
+**Stack:** Java • Spring Boot • React • TypeScript • PostgreSQL • Python • Go
 
-**Coming Soon** — repository and documentation will be linked after the source is reviewed and imported.
+### IGRIS Repositories To Pin
 
-### Academic Tutoring Management System
+| Repository | Role | Stack |
+| :--- | :--- | :--- |
+| [igris-frontend](https://github.com/igris-project/igris-frontend) | Web interface for the IGRIS ecosystem. | TypeScript • React |
+| [igris-backend](https://github.com/igris-project/igris-backend) | Main backend API for academic allocation workflows. | Java • Spring Boot |
+| [igris-sunny-service](https://github.com/igris-project/igris-sunny-service) | Java microservice for specialized IGRIS processing. | Java |
+| [igris-morpheus-service](https://github.com/igris-project/igris-morpheus-service) | Python microservice for analytical and optimization routines. | Python |
+| [igris-rocket-service](https://github.com/igris-project/igris-rocket-service) | Go microservice for high-throughput IGRIS routines. | Go |
+| [igris-gradegen-service](https://github.com/igris-project/igris-gradegen-service) | Python service supporting grade and allocation generation workflows. | Python |
 
-An academic project intended to manage tutoring activities. Features and architecture will be documented only after the GitLab source is reviewed.
+### Additional IGRIS Modules
 
-**Highlights**
+[igris-iron-service](https://github.com/igris-project/igris-iron-service) and [igris-darwin-service](https://github.com/igris-project/igris-darwin-service) extend the ecosystem with additional Python services. Private repositories hold academic documentation, benchmark material, database assets, and earlier versions that are not part of the public profile surface.
 
-- Entity and business-rule analysis pending source review.
-- Authentication and role flows pending source review.
-- Architecture and entity diagrams planned for the public documentation.
+### Other Projects
 
-**Stack:** To be verified from source code
-
-**Coming Soon** — GitLab import pending.
-
-### GradeMaker
+#### GradeMaker
 
 Backend project for managing academic domains such as users, institutions, components, grades, profiles, and security.
 
-**Highlights**
-
-- Domain-oriented organization for academic concepts.
-- Relational persistence with PostgreSQL.
-- Containerized local environment planned through Docker documentation.
-
 **Stack:** Java • Spring Boot • PostgreSQL • Docker
 
-**Coming Soon** — public link will be added after its documentation and examples are reviewed.
-
-### PGP Academy
+#### PGP Academy
 
 Academic gamified programming platform developed collaboratively. My contribution covered the initial backend, logical and physical database modeling, requirements and business-rule documentation, technical planning, and presentations to the academic community.
 
-**Highlights**
-
-- Initial backend development with C# and ASP.NET.
-- Logical and physical database design.
-- Requirements discovery and collaborative technical planning.
-
 **Stack:** C# • ASP.NET • Relational Database
 
-**Coming Soon** — repository availability and publication authorization must be confirmed.
+#### WebPulse
 
-### WebPulse
-
-A full-stack platform for monitoring APIs, tracking latency and uptime, detecting incidents, and sending alerts.
-
-**Highlights**
-
-- API health, latency, and uptime monitoring.
-- Incident detection and asynchronous alert delivery.
-- Automated testing and delivery pipeline planned from the outset.
+Planned full-stack platform for monitoring APIs, tracking latency and uptime, detecting incidents, and sending alerts.
 
 **Planned stack:** Java • Spring Boot • React • PostgreSQL • Docker • Redis • RabbitMQ • JUnit • Mockito • Testcontainers • GitHub Actions
 
-**Planned Project** — design and implementation have not started.
-
-<img src="./assets/research-publications-banner.png" width="100%" alt="Research and Publications." />
+<img src="./assets/research-publications-banner.png" width="100%" alt="Research and publications banner with blue data nodes, anonymized documents, analytical panels and technical evidence trails." />
 
 ## Research & Publications
 
@@ -163,10 +143,10 @@ Academic research on how soft skills influence careers in technology. My work in
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilkerMonky&show_icons=true&hide_border=true&title_color=EF4444&icon_color=DC2626&text_color=94A3B8&bg_color=05070D" width="49%" alt="Weslley Wilker's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilkerMonky&layout=compact&hide_border=true&title_color=EF4444&text_color=94A3B8&bg_color=05070D" width="49%" alt="Most used languages in WilkerMonky public repositories" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WilkerMonky&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=2563EB&text_color=94A3B8&bg_color=020617" width="49%" alt="Weslley Wilker's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilkerMonky&layout=compact&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=020617" width="49%" alt="Most used languages in WilkerMonky public repositories" />
 </div>
 
 <br />
 
-<img src="./assets/wilker-closing-card.png" width="100%" alt="Building reliable systems. Connecting ideas through software." />
+<img src="./assets/wilker-closing-card.png" width="100%" alt="Building reliable systems through software engineering, blue energy, and high-contrast system interfaces." />

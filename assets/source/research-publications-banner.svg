@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-label="Research and publications banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.58" stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <filter id="glow" x="-35%" y="-35%" width="170%" height="170%">
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="500" fill="url(#bg)"/>
+  <g fill="none" stroke="#1D4ED8" stroke-opacity="0.18">
+    <path d="M120 380 C260 250 390 330 520 210 C650 90 820 160 948 236 C1090 320 1220 212 1460 132" stroke-width="2"/>
+    <path d="M180 420 C330 360 458 402 610 310 C760 218 908 318 1040 372 C1215 444 1330 294 1500 248" stroke-width="1.5"/>
+  </g>
+  <g filter="url(#glow)" stroke="#38BDF8" stroke-width="2" fill="#020617">
+    <rect x="1010" y="88" width="330" height="252" rx="14" stroke-opacity="0.48"/>
+    <rect x="1060" y="130" width="80" height="155" fill="#2563EB" fill-opacity="0.42" stroke="none"/>
+    <rect x="1165" y="178" width="80" height="107" fill="#38BDF8" fill-opacity="0.32" stroke="none"/>
+    <rect x="1270" y="112" width="28" height="173" fill="#6366F1" fill-opacity="0.42" stroke="none"/>
+    <rect x="260" y="116" width="260" height="310" rx="12" stroke-opacity="0.45"/>
+    <path d="M302 172 H478 M302 210 H454 M302 248 H486 M302 286 H420" stroke="#94A3B8" stroke-opacity="0.42"/>
+  </g>
+  <g fill="#38BDF8" opacity="0.72" filter="url(#glow)">
+    <circle cx="520" cy="210" r="7"/><circle cx="948" cy="236" r="7"/><circle cx="1220" cy="212" r="6"/><circle cx="610" cy="310" r="4"/><circle cx="1040" cy="372" r="4"/>
+  </g>
+  <g font-family="Liberation Sans, Arial, sans-serif">
+    <text x="650" y="166" fill="#E0F2FE" font-size="48" font-weight="700">Research &amp; Publications</text>
+    <text x="654" y="210" fill="#94A3B8" font-size="24">Evidence, interviews, privacy review and technical writing</text>
+    <text x="654" y="258" fill="#38BDF8" font-size="24" font-weight="700">Structured analysis for technology careers</text>
+  </g>
+</svg>
