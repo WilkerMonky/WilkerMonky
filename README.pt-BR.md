@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="./assets/wilker-fullstack-banner.png" width="100%" alt="Weslley Wilker — Desenvolvedor Full Stack construindo sistemas resilientes com Java, Spring Boot, React e PostgreSQL em uma aura tecnológica azul e preta." />
+  <img src="./assets/wilker-fullstack-banner.png" width="100%" alt="Banner do perfil WilkerMonky com aura roxa, partículas em sombra e interfaces tecnológicas discretas." />
 
   <br />
 
-  [![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=E0F2FE)](https://github.com/WilkerMonky)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/weslley-wilker-oliveira)
-  [![E-mail](https://img.shields.io/badge/E--mail-1D4ED8?style=for-the-badge&logo=gmail&logoColor=E0F2FE)](mailto:weslleywilker10@gmail.com)
-  [![Currículo](https://img.shields.io/badge/Currículo-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=E0F2FE)](./assets/Weslley-Wilker-CV.pdf)
+  [![GitHub](https://img.shields.io/badge/GitHub-030108?style=for-the-badge&logo=github&logoColor=F5F3FF)](https://github.com/WilkerMonky)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0614?style=for-the-badge&logo=linkedin&logoColor=C084FC&color=7C3AED)](https://linkedin.com/in/weslley-wilker-oliveira)
+  [![E-mail](https://img.shields.io/badge/E--mail-2E1065?style=for-the-badge&logo=gmail&logoColor=F5F3FF)](mailto:weslleywilker10@gmail.com)
+  [![Currículo](https://img.shields.io/badge/Currículo-4C1D95?style=for-the-badge&logo=adobeacrobatreader&logoColor=F5F3FF)](./assets/Weslley-Wilker-CV.pdf)
 
   [English](./README.md)
 
-  ![Desenvolvimento Full Stack](https://img.shields.io/badge/DESENVOLVIMENTO%20FULL%20STACK-38BDF8?style=flat-square&labelColor=020617&color=2563EB)
-  ![Engenharia de Backend](https://img.shields.io/badge/ENGENHARIA%20DE%20BACKEND-E0F2FE?style=flat-square&labelColor=0B1120&color=1D4ED8)
-  ![Arquitetura de Software](https://img.shields.io/badge/ARQUITETURA%20DE%20SOFTWARE-38BDF8?style=flat-square&labelColor=020617&color=6366F1)
+  ![Desenvolvimento Full Stack](https://img.shields.io/badge/DESENVOLVIMENTO%20FULL%20STACK-A855F7?style=flat-square&labelColor=030108&color=7C3AED)
+  ![Engenharia de Backend](https://img.shields.io/badge/ENGENHARIA%20DE%20BACKEND-F5F3FF?style=flat-square&labelColor=0B0614&color=4C1D95)
+  ![Arquitetura de Software](https://img.shields.io/badge/ARQUITETURA%20DE%20SOFTWARE-C084FC?style=flat-square&labelColor=030108&color=8B5CF6)
 </div>
 
 ## Sobre mim
@@ -23,32 +23,32 @@ Meu estilo de engenharia é pragmático: limites claros, código legível, APIs 
 
 Sou bacharel em Ciência da Computação e tenho experiência com pesquisa acadêmica, apresentações técnicas e projetos de software nos ecossistemas Java, C#, Python, Go e TypeScript. Em 2026, concluí um programa de quatro semanas de imersão em inglês na ILSC Language Schools, em Sydney, Austrália, no nível intermediário superior.
 
-<img src="./assets/wilker-developer-portrait.png" width="100%" alt="Ilustração original azul e preta de um engenheiro de software cercado por painéis de arquitetura, fluxos de dados, partículas e interfaces de sistema." />
+<img src="./assets/wilker-developer-portrait.png" width="100%" alt="Ilustração original roxa e preta com painéis de arquitetura, fluxos de dados, partículas e interfaces de sistema." />
 
 ## Arsenal técnico
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-020617?style=flat-square&logo=openjdk&logoColor=38BDF8)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-020617?style=flat-square&logo=springboot&logoColor=E0F2FE)
-![C#](https://img.shields.io/badge/C%23-020617?style=flat-square&logo=dotnet&logoColor=38BDF8)
-![Python](https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=E0F2FE)
-![Go](https://img.shields.io/badge/Go-020617?style=flat-square&logo=go&logoColor=38BDF8)
+![Java](https://img.shields.io/badge/Java-030108?style=flat-square&logo=openjdk&logoColor=C084FC)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-030108?style=flat-square&logo=springboot&logoColor=F5F3FF)
+![C#](https://img.shields.io/badge/C%23-030108?style=flat-square&logo=dotnet&logoColor=A855F7)
+![Python](https://img.shields.io/badge/Python-030108?style=flat-square&logo=python&logoColor=C4B5FD)
+![Go](https://img.shields.io/badge/Go-030108?style=flat-square&logo=go&logoColor=C084FC)
 
 Java • Spring Boot • C# • ASP.NET • Python • Django • Go • PHP • APIs REST
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=38BDF8)
-![TypeScript](https://img.shields.io/badge/TypeScript-020617?style=flat-square&logo=typescript&logoColor=E0F2FE)
-![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=flat-square&logo=javascript&logoColor=38BDF8)
+![React](https://img.shields.io/badge/React-030108?style=flat-square&logo=react&logoColor=C084FC)
+![TypeScript](https://img.shields.io/badge/TypeScript-030108?style=flat-square&logo=typescript&logoColor=F5F3FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-030108?style=flat-square&logo=javascript&logoColor=A855F7)
 
 React • TypeScript • JavaScript • HTML • CSS
 
 ### Bancos de dados
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=38BDF8)
-![SQL](https://img.shields.io/badge/SQL_Relacional-020617?style=flat-square&logoColor=E0F2FE)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-030108?style=flat-square&logo=postgresql&logoColor=C084FC)
+![SQL](https://img.shields.io/badge/SQL_Relacional-030108?style=flat-square&logoColor=F5F3FF)
 
 PostgreSQL • MySQL • SQL Server • SQL • Modelagem de dados • Otimização de consultas
 
@@ -58,11 +58,13 @@ SOLID • Clean Code • Design Patterns • Arquitetura em camadas • Programa
 
 ### Ferramentas
 
-![Git](https://img.shields.io/badge/Git-020617?style=flat-square&logo=git&logoColor=38BDF8)
-![Docker](https://img.shields.io/badge/Docker-020617?style=flat-square&logo=docker&logoColor=E0F2FE)
-![Linux](https://img.shields.io/badge/Linux-020617?style=flat-square&logo=linux&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/Git-030108?style=flat-square&logo=git&logoColor=C084FC)
+![Docker](https://img.shields.io/badge/Docker-030108?style=flat-square&logo=docker&logoColor=F5F3FF)
+![Linux](https://img.shields.io/badge/Linux-030108?style=flat-square&logo=linux&logoColor=A855F7)
 
 Git • GitHub • Docker • Linux • JUnit • Mockito • GitHub Actions
+
+<img src="./assets/engineering-focus-banner.png" width="100%" alt="Banner roxo de foco de engenharia conectando backend, integração, performance, testes e manutenibilidade." />
 
 ## Foco de engenharia
 
@@ -70,7 +72,7 @@ Git • GitHub • Docker • Linux • JUnit • Mockito • GitHub Actions
 | :--- | :--- | :--- |
 | APIs REST, regras de negócio, integrações, persistência, testes unitários e investigação de performance. | Integração completa entre interfaces React, serviços de backend, bancos de dados relacionais e serviços de apoio. | SOLID, Clean Code, testes, documentação, arquitetura em camadas e entregas sustentáveis. |
 
-<img src="./assets/featured-projects-banner.png" width="100%" alt="Projetos IGRIS em destaque visualizados como rotas de energia azul conectando frontend, backend, dados e motores de otimização." />
+<img src="./assets/featured-projects-banner.png" width="100%" alt="Repositórios IGRIS em destaque visualizados como rotas de energia roxa conectando frontend, APIs, serviços e dados." />
 
 ## Projetos em destaque
 
@@ -124,29 +126,49 @@ Plataforma Full Stack planejada para monitorar APIs, acompanhar latência e disp
 
 **Stack planejada:** Java • Spring Boot • React • PostgreSQL • Docker • Redis • RabbitMQ • JUnit • Mockito • Testcontainers • GitHub Actions
 
-<img src="./assets/research-publications-banner.png" width="100%" alt="Banner de pesquisa e publicações com nós de dados azuis, documentos anonimizados, painéis analíticos e trilhas de evidência técnica." />
+<img src="./assets/research-publications-banner.png" width="100%" alt="Banner de pesquisa e publicações com nós de dados roxos, documentos, gráficos, educação e conhecimento em programação." />
 
-## Pesquisa e publicações
+## Pesquisa e Publicações
 
-### Soft Skills nas Carreiras de Tecnologia
+### Mapeamento de Soft Skills para Carreiras Tecnológicas
 
-Pesquisa acadêmica sobre a influência das soft skills nas carreiras de tecnologia. Minha atuação incluiu coleta e análise de dados, entrevistas com profissionais e recrutadores de tecnologia, interpretação dos resultados, produção de artigo científico e apresentação em congresso acadêmico.
+Pesquisa sobre o papel das competências comportamentais nas carreiras de tecnologia, baseada em questionários com estudantes, docentes e profissionais. O artigo discute como comunicação, trabalho em equipe, adaptabilidade e resolução de conflitos complementam as competências técnicas.
 
-**Destaques**
+**Publicação:** RevistaFT
+**Participação:** Coautor
+**Ano:** 2024
+**Edição:** Volume 28, Edição 138
+**DOI:** `10.69849/revistaft/th10249261438`
+[Ler o artigo](https://revistaft.com.br/mapeamento-de-soft-skills-para-carreiras-tecnologicas/)
 
-- Combinou análise estruturada de dados e entrevistas profissionais.
-- Resultou na produção de um artigo acadêmico.
-- Exige revisão de privacidade e anonimização dos participantes antes da publicação de qualquer dado.
+### Aplicação da Gamificação no Ensino de Programação: Desafios e Resultados na Educação Técnica
 
-**Repositório da publicação em breve.** O futuro repositório incluirá o PDF, metodologia, resultados, declaração de contribuição, `CITATION.cff`, licença adequada e somente dados autorizados para publicação.
+Estudo sobre gamificação no ensino técnico de programação, com foco em motivação, engajamento, desempenho e desafios de implementação. O artigo sintetiza práticas educacionais com desafios, feedbacks e recompensas, destacando a necessidade de formação docente e alinhamento pedagógico.
+
+**Publicação:** RevistaFT
+**Participação:** Coautor
+**Ano:** 2025
+**Edição:** Volume 29, Edição 149
+**DOI:** `10.69849/revistaft/cl10202508251015`
+[Ler o artigo](https://revistaft.com.br/aplicacao-da-gamificacao-no-ensino-de-programacao-desafios-e-resultados-na-educacao-tecnica/)
+
+### Uso da Gamificação como Ferramenta Tecnológica para o Ensino de Lógica e Programação
+
+Artigo sobre a gamificação como ferramenta tecnológica aplicada ao ensino de lógica e programação na educação técnica. Analisa como desafios, recompensas e feedback podem apoiar motivação, desempenho e aprendizagem prática.
+
+**Publicação:** RevistaFT
+**Participação:** Coautor
+**Ano:** 2025
+**Edição:** Volume 29, Edição 150
+**DOI:** `10.69849/revistaft/cl10202509251044`
+[Ler o artigo](https://revistaft.com.br/uso-da-gamificacao-como-ferramenta-tecnologica-para-o-ensino-de-logica-e-programacao/)
 
 ## Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilkerMonky&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=2563EB&text_color=94A3B8&bg_color=020617" width="49%" alt="Estatísticas de Weslley Wilker no GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilkerMonky&layout=compact&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=020617" width="49%" alt="Linguagens mais usadas nos repositórios públicos de WilkerMonky" />
-</div>
+Provedores externos de SVG dinâmico retornaram erros que não eram imagem durante a validação, então não estou incorporando cards quebrados. Até que um provedor confiável esteja disponível novamente, use as visualizações públicas do GitHub:
+
+[Visão geral](https://github.com/WilkerMonky?tab=overview) • [Repositórios](https://github.com/WilkerMonky?tab=repositories)
 
 <br />
 
-<img src="./assets/wilker-closing-card.png" width="100%" alt="Construindo sistemas confiáveis com engenharia de software, energia azul e interfaces de sistema de alto contraste." />
+<img src="./assets/wilker-closing-card.png" width="100%" alt="Banner de encerramento com caminhos de energia roxa ao redor de uma mensagem sobre sistemas confiáveis." />
